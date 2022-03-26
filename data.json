@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Dell Vostro 14 3400",
+        "price": "48,830",
+        "image": "https://www.ryanscomputers.com/storage/products/medium/dell-vostro-14-3400-11th-gen-intel-core-i3-1115g4-61641188145.webp",
+        "rating": {
+            "rate": 5.0,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "name": "HP Pavilion Aero 13-be0345AU",
+        "price": "57,500",
+        "image": "https://www.ryanscomputers.com/storage/products/medium/hp-pavilion-aero-13-be0345au-amd-ryzen-7-5800u-61647252762.webp",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "name": "Lenovo IdeaPad Slim 3i",
+        "price": "47,740",
+        "image": "https://www.ryanscomputers.com/storage/products/medium/lenovo-ideapad-slim-3i-15itl-intel-core-i3-1005g1-41635148574.webp",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "name": "Acer Nitro 7",
+        "price": "1,12,840",
+        "image": "https://www.ryanscomputers.com/storage/products/medium/acer-nitro-7-an715-51-intel-core-i5-9300h-156-41632804887.webp",
+        "rating": {
+            "rate": 4.4,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "name": "Avita LIBER Intel Core i5 8250U",
+        "price": "53,170",
+        "image": "https://www.ryanscomputers.com/storage/products/medium/avita-liber-intel-core-i5-8250u-133-inch-fhd-ips-101626943733.webp",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "name": "Apple MacBook Air Late 2020",
+        "price": "99,000",
+        "image": "https://www.ryanscomputers.com/storage/products/medium/apple-macbook-air-late-2020-apple-m1-chip-133-71629118773.webp",
+        "rating": {
+            "rate": 4.9,
+            "count": 70
+        }
+    },
+    {
+        "id": 7,
+        "name": "Apple MacBook Pro Late 2020",
+        "price": "1,26,500",
+        "image": "https://www.ryanscomputers.com/storage/products/medium/apple-macbook-pro-late-2020-apple-m1-chip-133-71631335816.webp",
+        "rating": {
+            "rate": 4,
+            "count": 400
+        }
+    },
+    {
+        "id": 8,
+        "name": "Apple M1 Max 16.2",
+        "price": "3,78,500",
+        "image": "https://www.ryanscomputers.com/storage/products/medium/apple-macbook-pro-late-2021-apple-m1-max-162-41645591314.webp",
+        "rating": {
+            "rate": 3.9,
+            "count": 100
+        }
+    },
+    {
+        "id": 9,
+        "name": "Asus VivoBook S15 M533IA",
+        "price": "71,500",
+        "image": "https://www.ryanscomputers.com/storage/products/medium/asus-vivobook-s15-m533ia-amd-ryzen-7-4700u-156-21635222128.webp",
+        "rating": {
+            "rate": 4.3,
+            "count": 203
+        }
+    },
+    {
+        "id": 10,
+        "name": "Asus ZenBook 14 UX425JA",
+        "price": "81,500",
+        "image": "https://www.ryanscomputers.com/storage/products/medium/asus-zenbook-14-ux425ja-intel-core-i5-1035g1-14-51630847301.webp",
+        "rating": {
+            "rate": 4.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 11,
+        "name": "HP 15s-du3786TU",
+        "price": "50,400",
+        "image": "https://www.ryanscomputers.com/storage/products/medium/hp-15s-du3786tu-11th-gen-intel-core-i3-1115g4-51635585937.webp",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 12,
+        "name": "HP 15s-du3023TU",
+        "price": "50,500",
+        "image": "https://www.ryanscomputers.com/storage/products/medium/hp-15s-du3023tu-intel-core-i3-1115g4-156-inch-21630846075.webp",
+        "rating": {
+            "rate": 5.0,
+            "count": 400
+        }
+    }
+]
