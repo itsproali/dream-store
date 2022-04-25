@@ -1,0 +1,18 @@
+.footer {
+    width: 100%;
+    background-color: #3F9FDD;
+    padding: 25px;
+    text-align: center;
+}
+
+.text {
+    font-size: 18px;
+    color: white;
+}
+
+.text a {
+    color: #cf4343;
+    display: inline-block;
+    text-decoration: none;
+
+}
